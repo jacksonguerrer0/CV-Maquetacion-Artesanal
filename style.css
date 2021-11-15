@@ -486,6 +486,7 @@ header > .container{
   border-bottom: 2px solid var(--gray-dark-color);
 }
 .contact-form > button{
+  margin-top: 2rem;
   cursor: pointer;
 }
 .contact-form > button:hover{
